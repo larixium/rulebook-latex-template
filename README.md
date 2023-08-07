@@ -1,8 +1,8 @@
-# Game Rules LaTeX Template
+# Rule Book LaTeX Template
 
-Homepage: <https://github.com/larixium/game-rules-latex-template>
+Homepage: <https://github.com/larixium/rule-book-latex-template>
 
-Welcome to the Game Rules LaTeX Template repository!
+Welcome to the Rule Book LaTeX Template repository!
 
 ## Introduction
 
@@ -14,9 +14,9 @@ The template is designed to be compatible with both PDFLaTeX and XeLaTeX.
 
 ### Rule Book Preview
 
-https://github.com/larixium/game-rules-latex-template/sample/japanese-express.pdf
+https://github.com/larixium/rule-book-latex-template/blob/main/sample/japanese-express.pdf
 
-![Preview](https://raw.githubusercontent.com/larixium/game-rules-latex-template/sample/japanese-express.pdf)
+![Preview](https://github.com/larixium/rule-book-latex-template/blob/main/sample/japanese-express.pdf)
 
 ## Getting Started
 
@@ -56,7 +56,6 @@ pdflatex game_rules.tex
 To compile with XeLaTeX, use the command:
 
 ```sh
-Copy code
 xelatex game_rules.tex
 ```
 

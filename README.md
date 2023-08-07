@@ -1,6 +1,6 @@
 # Rule Book LaTeX Template
 
-Homepage: <https://github.com/larixium/rule-book-latex-template>
+Homepage: <https://github.com/larixium/rule-book-latex-template/>
 
 Welcome to the Rule Book LaTeX Template repository!
 
@@ -16,7 +16,8 @@ The template is designed to be compatible with both PDFLaTeX and XeLaTeX.
 
 https://github.com/larixium/rule-book-latex-template/blob/main/sample/japanese-express.pdf
 
-[Preview](https://github.com/larixium/rule-book-latex-template/blob/main/sample/japanese-express.pdf)
+![](https://github.com/larixium/rule-book-latex-template/blob/main/sample/japanese-express1.png)
+![](https://github.com/larixium/rule-book-latex-template/blob/main/sample/japanese-express2.png)
 
 ## Getting Started
 
@@ -53,7 +54,7 @@ To compile with PDFLaTeX, use the command:
 pdflatex game_rules.tex
 ```
 
-To compile with XeLaTeX, use the command:
+or with XeLaTeX:
 
 ```sh
 xelatex game_rules.tex

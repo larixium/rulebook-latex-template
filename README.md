@@ -1,8 +1,8 @@
-# Rule Book LaTeX Template
+# Rulebook LaTeX Template
 
-Homepage: <https://github.com/larixium/rule-book-latex-template/>
+Homepage: <https://github.com/larixium/rulebook-latex-template/>
 
-Welcome to the Rule Book LaTeX Template repository!
+Welcome to the Rulbook LaTeX Template repository!
 
 ## Introduction
 
@@ -12,12 +12,12 @@ This repository contains a non-professional LaTeX template for creating rulebook
 
 The template is designed to be compatible with both PDFLaTeX and XeLaTeX.
 
-### Rule Book Preview
+### Rulebook Preview
 
-https://github.com/larixium/rule-book-latex-template/blob/main/sample/japanese-express.pdf
+https://github.com/larixium/rulebook-latex-template/blob/main/sample/japanese-express.pdf
 
-![](https://github.com/larixium/rule-book-latex-template/blob/main/sample/japanese-express1.png)
-![](https://github.com/larixium/rule-book-latex-template/blob/main/sample/japanese-express2.png)
+![](https://github.com/larixium/rulebook-latex-template/blob/main/sample/japanese-express1.png)
+![](https://github.com/larixium/rulebook-latex-template/blob/main/sample/japanese-express2.png)
 
 ## Getting Started
 
@@ -63,7 +63,7 @@ xelatex game_rules.tex
 Warning: Sometimes the file background doesn't render correctly. To fix this, recompile the file.
 
 ## Acknowledgments
-I would like to express my thanks to the RPG-LaTeX-Template project and "The Law of Root" rulebook from the board game called "Root" for inspiring and contributing to the creation of this template.
+I would like to express my thanks to the https://github.com/Krozark/RPG-LaTeX-Template project and "The Law of Root" rulebook from the board game called "Root" for inspiration in creating this template.
 
 ## License
 This project is licensed under the MIT License, allowing you to use, modify, and distribute the template freely.

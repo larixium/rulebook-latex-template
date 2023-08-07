@@ -16,7 +16,7 @@ The template is designed to be compatible with both PDFLaTeX and XeLaTeX.
 
 https://github.com/larixium/rule-book-latex-template/blob/main/sample/japanese-express.pdf
 
-![Preview](https://github.com/larixium/rule-book-latex-template/blob/main/sample/japanese-express.pdf)
+[Preview](https://github.com/larixium/rule-book-latex-template/blob/main/sample/japanese-express.pdf)
 
 ## Getting Started
 
